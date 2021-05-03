@@ -6,11 +6,11 @@
  
 Este repositorio tiene como proposito mostrar el desarrollo de los ejercicios de convolución y el ejemplo 2.13 del libro "Discrete-time signal processing"
 
-** Requistos**
+**Requistos**
             
-            +Python
-            +matplotlin
-            +numpy
+  +Python
+  +matplotlin
+  +numpy
             
 **Integrantes**
 

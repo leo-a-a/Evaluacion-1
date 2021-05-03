@@ -4,18 +4,17 @@
 
 ### Descripción
  
-Este repositorio tiene como proposito mostrar el desarrollo de los ejercicios de convolución y el ejemplo 2.13 del libro "Discrete-time signal processing"
-
+Este repositorio tiene como proposito mostrar el desarrollo de los ejercicios de convolución.
 **Requistos**
             
- + Python
- + matplotlib
- + numpy
+ + Python (3.8.5)
+ + matplotlib (3.3.4)
+ + numpy(1.19.2)
             
 **Integrantes**
 
  + Leandro Aguilar- leandro.aguilar@alumnos.uach.cl
- + Luis milling -
+ + Luis milling -luis.milling@alumnos.uach.cl
  
  **Semestre**
  

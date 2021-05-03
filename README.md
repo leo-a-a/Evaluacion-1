@@ -8,9 +8,9 @@ Este repositorio tiene como proposito mostrar el desarrollo de los ejercicios de
 
 **Requistos**
             
-  +Python
-  +matplotlin
-  +numpy
+ +Python
+ +matplotlib
+ +numpy
             
 **Integrantes**
 
